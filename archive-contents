@@ -111,6 +111,7 @@
  (powershell . [(20201005 1642) ((emacs (24))) "Mode for editing PowerShell scripts" tar])
  (projectile . [(20210407 707) ((emacs (25 1)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" tar])
  (pyim . [(20210428 2307) ((emacs (24 4)) (async (1 6)) (xr (1 13))) "A Chinese input method support quanpin, shuangpin, wubi and cangjie." tar])
+ (pyim-basedict . [(0 5 0) nil "The default pinyin dict of pyim" tar])
  (python-environment . [(20150310 853) ((deferred (0 3 1))) "virtualenv API for Emacs Lisp" tar])
  (queue . [(0 2) nil "Queue data structure" tar])
  (quickrun . [(20210330 654) ((emacs (24 3))) "Run commands quickly" tar])
